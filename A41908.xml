@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from Count Teckely, or, An account of some passages 'twixt a true Protestant English volunteer and a Teckelytish Mahumetan in the Turkish camp sent over by the Counts secretary to a brother in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41908</idno>
+            <idno type="STC">Wing G1716</idno>
+            <idno type="STC">ESTC R26752</idno>
+            <idno type="EEBO-CITATION">09531578</idno>
+            <idno type="OCLC">ocm 09531578</idno>
+            <idno type="VID">43530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43530)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1332:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from Count Teckely, or, An account of some passages 'twixt a true Protestant English volunteer and a Teckelytish Mahumetan in the Turkish camp sent over by the Counts secretary to a brother in London.</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Islam --  Anecdotes.</term>
+               <term>Islam --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43530:1" rendition="simple:additions"/>
+            <head>GREAT NEWS FROM Count Teckely, OR, An Account of ſome Paſſages 'twixt a <hi>True Proteſtant</hi> Engliſh Volunteer, and a <hi>Tecke<g ref="char:EOLhyphen"/>lytiſh MAH<g ref="char:V">Ʋ</g>METAN</hi> in the <hi>Turkiſh</hi> Camp. Sent over by the <hi>Counts</hi> Secretary to a Brother in <hi>London.</hi>
+            </head>
+            <head type="sub">En! Pſuedo-Proteſtantium flagellum.</head>
+            <sp>
+               <speaker>ENGLISH TR<g ref="char:V">Ʋ</g>E P.</speaker>
+               <p>COnfound me if I care a Fig for Chriſtianity, tis a dull, ſneak<g ref="char:EOLhyphen"/>ing Inſtitution; a pitiful, mean piece of Morality that Heathens would be aſham<g ref="char:EOLhyphen"/>ed of. It gives no Incouragement to good ſub<g ref="char:EOLhyphen"/>ſtantial Debauchery; no rewards to <hi>Treaſon</hi> and <hi>Rebellion;</hi> allows no Poligamy, nor a train of ram<g ref="char:EOLhyphen"/>pant Concubines, to Cheriſh and entertain a Man in thoſe days of Viſitation. Hang it Brother, I hate Perſecution, and Lectures of Damnation upon every little Miſcarriage; give me a good Frolick<g ref="char:EOLhyphen"/>ſom Religion, and ſee what a Zealous Votary I'le be.</p>
+            </sp>
+            <sp>
+               <speaker>Teck</speaker>
+               <p>I believe you Brother, the Chriſtian Re<g ref="char:EOLhyphen"/>ligion indeed is too ſevere for Fleſh and Blood; it makes a Man Honeſt, which is a damn'd Scandal in the latter Age of the World; and by <hi>Beelzebub,</hi> you did a generous act to quit your pretences to it. Tis ſuch a melancholy, niggardly Religion, that none but incorrigible Sots could court and admire it.</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>Very right; the <hi>Alcoran</hi> is un<g ref="char:EOLhyphen"/>doubtedly ſuperior to the Goſpel in all Things. What Man of ſenſe would hearken to Self-denial and Mortification, when the uncontrolled plea<g ref="char:EOLhyphen"/>ſures of the World are before him; when he might gratify his appetite to the full, and be a Li<g ref="char:EOLhyphen"/>bertine with Impunity? for my own part Brother, I have lived among the Godly in <hi>England,</hi> and hang me if all their clutter about the purity of their Religion ſignifies a Ruſh, and we that profeſt it were Perſecuted into the bargain.</p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>No, no, I tell you, you acted like a Man of Politiques to leave it, as you found it, an empty Name. Beſides who'd be toſs't like a Dog in a Blanket for a Religious qualm upon the Stomach? you had no liberty of Conſcience in your country; and who wou'd be ſubject to the ſeverity of ſuch a ſtingy Government? Here's Paradice before thee Lad, and a good <hi>Old Cauſe;</hi> and who would not be a Friend to the Grand <hi>Signcour</hi> upon ſuch Honourable Propoſitions?</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>I like the <hi>Cauſe</hi> Man, I come a Volunteer to the Army; and I'le Stand and Fall by the new Grand <hi>Vizier,</hi> under whom I have liſt<g ref="char:EOLhyphen"/>ed my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Teck</speaker>
+               <p>No doubt of ſucceſs; ſhew but thy Zeal and thy <hi>Engliſh</hi> Valour; and be an Illuſtrious Pre<g ref="char:EOLhyphen"/>ſident for others to follow thee, and thoul't ſee bleſ<g ref="char:EOLhyphen"/>ſed Times this <hi>Campagne.</hi> There will certainly be Monuments erected in memory of all Glorious Volunteers; their Names will be written in Braſs, that future Ages may ſee their generous Undertak<g ref="char:EOLhyphen"/>ings.</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>No <hi>Janizary</hi> in the <hi>Turks</hi> Do<g ref="char:EOLhyphen"/>minions ſhall perform nobler Exploits, then my ſelf, in the Station I am. I'de hew down the <hi>Chriſtians,</hi> as I would tear down their <hi>Croſſes</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Chappels. Who would not be Circumciz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d for the <hi>Turk,</hi> that has been Anathematiz'd by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Pope?</hi> who would not hate the name of <hi>Chriſtia<g ref="char:EOLhyphen"/>nity,</hi> that has heard of the Whore of <hi>Babylon?</hi> the <hi>Mufti</hi>'s of our Conventicles in <hi>England</hi> ſay, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Beaſt with ten <hi>Horns,</hi> and the great <hi>Turk,</hi> ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but two, you know; therefore ſhe's the greater Monſter.</p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>Oh! your <hi>Mufti</hi>'s in a long <hi>Cloak</hi> are plaguy fellows about the <hi>Revelations;</hi> they make nothing of a Propheſie, or a knotty Myſteri<g ref="char:EOLhyphen"/>ous Riddle. But hang it, let's no longer diſpute about the merits of the <hi>Cauſe;</hi> to be ſure we are in the right; we are of the ſtrongeſt ſide, tho we had not ſucceſs laſt year proportionable to our Ex<g ref="char:EOLhyphen"/>pectations: but we have a formidable Army now, ſhall make the <hi>Pope,</hi> and the <hi>Emperour</hi> Tremble.</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>Prithee my Friend let's confer Notes together alittle. What might be the rea<g ref="char:EOLhyphen"/>ſon of ſo many unlucky Diſappointments? how came the <hi>Grand-Vizier</hi> and your Count <hi>Teckely</hi> to be ſo often Defeated?</p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>Nothing but bad Conduct and ill Succeſs you may ſwear for't. We had number enough for the Battle, but the, <hi>Devil</hi> flatter'd us: we had not firm Reſolutions enough; we were not bold and daring as Bully <hi>John</hi> of <hi>Poland.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>Yes, yes, ye were bold enough, but ye wanted the Prayers of the Godly. We were not rightly informed concerning your Proeedings. As ſoon as our Teachers had acquainted us with your <hi>Teckelitiſh</hi> Principles, your noble Reſolutions againſt your Liege Lord the Emperour, we inſtant<g ref="char:EOLhyphen"/>ly eſpouſed your <hi>Cauſe,</hi> and in all our diſcourſes Vin<g ref="char:EOLhyphen"/>dicated your Proceedings.</p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>We have ſome friends I find in your little Iſland, as well as elſewere. Some People call us Rebels, Revolters, and Stigmatize us Confoundly but it ſignifies nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>Not a Ruſh; what other People call Rebellion and Apoſtacy, we call Right and Equity, and the Liberty of the Subject. Who would not
+<pb facs="tcp:43530:2"/>rather that the <hi>Turk</hi> ſhould Reign over us, then his <hi>Holineſs?</hi> I tell thee, all the Republicans of <hi>England,</hi> are Tooth and Nail for the <hi>Turk.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>What did they ſay concerning the Relief of <hi>Vienna.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>Oh! they hung down their Heads like a Bull Ruſh, when the news was confirm'd. They ſuſpended their Grief at firſt, truſting that it might be a falſe Relation. They'd hold yee ten to one that <hi>Vienna</hi> was taken, and were ready to make <hi>Bonfires</hi> on the ſame Preſumption. The Grand <hi>Viziers</hi> and Count <hi>Teckely</hi>'s Health were Drank with a great deal of Gratulation: nay one Brother Burnt his Hat amidſt the Frol que.</p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>Well but what ſaid they when the ge<g ref="char:EOLhyphen"/>neral Report of the World had contradicted their Wiſhes?</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>Why really they were damnably Diſcomforted; with lifted up Hands to Heaven they diſown'd a Providence, and denied their Chriſtianity in favour of <hi>Turkiſm.</hi> But yet all their Hopes are not yet Defeated, they think to hear better New, this <hi>Campagne.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>I'me glad to hear of ſuch paſſionate Re<g ref="char:EOLhyphen"/>ſentments for our <hi>Cauſe.</hi> Believe me there ſhould be a Colledge Erected in <hi>Conſtantinople,</hi> or <hi>Adri<g ref="char:EOLhyphen"/>anople,</hi> for the Education of true Proteſtant <hi>Ma<g ref="char:EOLhyphen"/>hometans.</hi> their hearty Zeal for the <hi>Turk,</hi> and Count <hi>Teckely,</hi> is far Superiour to their <hi>Muftie</hi>'s, or our <hi>Prieſts;</hi> and I fancy their Prayers would be more Succeſsful.</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>As for their Prayers and good Wiſhes you may be ſure of them; they are joyn'd as the Heart of one Man for the <hi>Mahometan Cauſe.</hi> You'll certainly hear of a Faſt Day very ſpeedily (before the two Armies meet) wherein will be Prayers and Supplications made for the Perſecu<g ref="char:EOLhyphen"/>ted Brethren, the adherents to Count <hi>Teckely.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>What's the reaſon the Conventiclers are ſuch mighty favourers of the Count and his Inter<g ref="char:EOLhyphen"/>eſt?</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>Why they bear the ſame Reſpect and Veneration to the Count, as they do to Luci<g ref="char:EOLhyphen"/>fer, and the fallen Angels. They were bred up in Rebellion, and ſuckt Treaſon from their Mothers Duggs; and would you not have them appear for thoſe of their own Tribe and Opinion?</p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>Yes, yes, by all means; I think they are a very good natured ſort of People; and the Treaſon has not ſucceeded with them of late, they bear a good Reſpect and Veneration, to thoſe who are like to Succeed in ſo glorious an At<g ref="char:EOLhyphen"/>tempt.</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>Their damn'd Diſappointment at home, would have made their Spirits droop, had not Count <hi>Teckely</hi> ſo luckily appear'd to Allarm the World with his Performances. They appear'd with very gloomy Faces, when ſome of their chief Conſpirators were hurried to the place of Ex<g ref="char:EOLhyphen"/>ecution: but now they prick up their Ears, and outface the Noon Day.</p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>'Tis Confidence, and an incorrigible piece of Impudence, that can ſupport us amidſt any Dreadful Diſaſters. If we ſhould decline the <hi>Cauſe</hi> now, becauſe we were Miſerably Diſcomfi<g ref="char:EOLhyphen"/>ted laſt Year, we ſhould appear Timorous; and the Devil would never aſſiſt us at a dead Life.</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>Never fear he'll always be kind to his Friends, that have liſted themſelves under his Banner. As for our <hi>True Proteſtant</hi> Brethren, the Engliſh <hi>Teckelyte</hi>'s, they'll aſſiſt us with their Prayers; and if occaſion ſhould require, they'll open their Hearts, and their Purſes toward our Aſſiſtance. Let the <hi>Pope</hi> ſend his Contributions to the <hi>Poliſh King,</hi> and their German Forces; they'll afford theirs to the <hi>Teckelyte's,</hi> and the <hi>Turk.</hi> You'd Bleſs your ſelf, to come into a Meeting-Houſe, and hear ſuch hearty Prayers for our Succeſs.</p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>Never had we ſo diſtant, and yet ſo firm Friends, and Benefactors.</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>Alas! they offer up their Pray<g ref="char:EOLhyphen"/>ers ſo fervently, with ſuch an affectionate Zeal, that Heaven can never be deaf to'em; they ball out and Pray to God after ſuch a tumultuous manner that he is almoſt neceſſitated to take notice of 'em. [Your Prayers are deſir'd in behalf of Count <hi>Teckely.</hi>] Aſſiſt him O Lord, and ſupport his <hi>Cauſe:</hi> Let not the Mighty of the World prevail upon him.</p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>This indeed is a cunning way of deſiring God to deſtroy Chriſtianity.</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>Why they look upon the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to be a Civiler Perſon, a better natur'd Chriſ<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> as a Brickclayer ſaid) then the old Gentlemen at <hi>Rome.</hi> They'll be Saints on Earth, and enjoy a Pa<g ref="char:EOLhyphen"/>radiſe here with the <hi>Mahometans,</hi> rather than o<g ref="char:EOLhyphen"/>bey the Precepts of our Saviour, and his Apoſtles, upon a tedious expectation of Happineſs and Glory hereafter.</p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>Why in good earneſt the preſent Satiſ<g ref="char:EOLhyphen"/>faction is the beſt. Who'd ſtint himſelf of Plea<g ref="char:EOLhyphen"/>ſure, and not be ſure of a Reward? your Engliſh Conventiclers I find differ not much from our <hi>Mahometans,</hi> only in Name; they jump together in Practice; and agree in all their Political Pro<g ref="char:EOLhyphen"/>ceedings.</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>But I'me afraid they would not like Circumciſion? I confeſs thy love a <hi>Seraglio,</hi> as well as the <hi>Turk:</hi> and Love (upon the prive<g ref="char:EOLhyphen"/>ledge of Saint-ſhip) to ſuck the ſweets of the Earth. Some have been free to talk that a <hi>true Proteſtant Mufti,</hi> mounted up into the Wainſcoat, us'd a <hi>Mahometan</hi> Trick, (in imitation of the Grand <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<g ref="char:EOLhyphen"/>neour</hi>) and threw his Handkerchief to his Female Auditory.</p>
+            </sp>
+            <sp>
+               <speaker>Teck.</speaker>
+               <p>I Swear by <hi>Mahomet,</hi> that your <hi>true Pro<g ref="char:EOLhyphen"/>teſtants</hi> are rare fellows, to make a Conventicle a kind of Baudy-Houſe. What do their adver<g ref="char:EOLhyphen"/>ſaries talk of them for taking part, (as they ſay) with Infidels?</p>
+            </sp>
+            <sp>
+               <speaker>Eng. True P.</speaker>
+               <p>Why they repreſent them a parcel of Factious, Self Intereſted, Rebellious, Irreligi<g ref="char:EOLhyphen"/>ous, Atheiſtical ſort of People. And indeed they don't contradict the charge, by their Practice. Their Lives are ſo Lewd, their Converſation is ſo Treacherous; that they won't admit them fit for humane Society. Every ſtep they make is to<g ref="char:EOLhyphen"/>wards, or in favour of a Rebellion. Their Prin<g ref="char:EOLhyphen"/>ciples are ſo viſible. that their Malignants boldly affirm, that as long as there's a Conventicle in the Kingdom, we ſhall never be without a Republican Atheiſt, or a <hi>true Proteſtant Mahometan.</hi> Farewel Brother, and next Meeting expect a new <hi>Tecke<g ref="char:EOLhyphen"/>litiſh</hi> Letany.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>George Croom,</hi> at the <hi>Blew-Ball</hi> in <hi>Thames-ſtreet,</hi> over <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
